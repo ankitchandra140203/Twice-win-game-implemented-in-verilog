@@ -1,7 +1,7 @@
 # Twice win game implemented in verilog
 
 ## Problem Statement( refer to the pdf attached ) ->
- It is a game played between two individuals. This game is played by two or more individuals.
+ This game is played by two or more individuals.
  The fundamental rule is that the selected number is subtracted by the highest possible power of two. Players take turns 
  subtracting, and the one who makes the last move wins. If played between two players, there are three rounds in total.
  The individual who wins two rounds emerges as the overall winner.
